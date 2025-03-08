@@ -1,4 +1,4 @@
-# 0308 Memory Website
+# 0308 
 
 A minimalist website to display a special image.
 
